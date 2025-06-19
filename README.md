@@ -24,3 +24,4 @@ In summary, this Chrome extension is a lightweight, user-friendly tool that help
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f53bc51c-a8ee-4f80-b475-15fb7bee4b25)
