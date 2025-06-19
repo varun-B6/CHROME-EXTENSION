@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Productivity Dashboard</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <h2>Productivity Dashboard</h2>
+  <div id="summary">
+    <p>Total time tracked: <span id="totalTime">0</span> mins</p>
+    <p>Productive time: <span id="productiveTime">0</span> mins</p>
+    <p>Unproductive time: <span id="unproductiveTime">0</span> mins</p>
+  </div>
+  <canvas id="chart" width="300" height="300"></canvas>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
